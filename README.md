@@ -22,8 +22,8 @@ Print the output.
 ## PROGRAM:
 ```python
 '''
-Developed by : Shaik Sameer Basha 
-Reference number : 22004926
+Developed by : Gumma Dileep Kumar
+Reference number : 22007129
 '''
 import pandas as pd
 df = pd.read_csv("nba.csv")
